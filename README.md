@@ -2,15 +2,21 @@
 
 A new Flutter project.
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+- Provider
+- Api | Weather
+- http 0.13.4  | Flutter Package 
+  
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
+***
+Home Screen:
+![alt text](https://github.com/HasanxElwan/weatherApp/blob/main/screenshots/Screenshot%202022-07-21%20012641.png "")
+***
+Search Screen:
+![alt text](https://github.com/HasanxElwan/weatherApp/blob/main/screenshots/Screenshot%202022-07-21%20013013.png "")
+***
+Weather Screen :
+![alt text](https://github.com/HasanxElwan/weatherApp/blob/main/screenshots/Screenshot%202022-07-21%20013102.png "")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
